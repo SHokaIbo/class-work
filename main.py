@@ -1,3 +1,3 @@
-a = int(input("vvedite chislo"))
-print(a,a*2)
+# a = int(input("vvedite chislo"))
+# print(a,a*2)
 
